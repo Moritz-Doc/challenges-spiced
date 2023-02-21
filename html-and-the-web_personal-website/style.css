@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* TYPE SELECTORS */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+}
+
+nav {
+  margin: 10px;
+  text-align: center;
+}
+
+h1,
+h2 {
+  color: rgb(0, 0, 0);
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
